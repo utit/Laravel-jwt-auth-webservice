@@ -4,6 +4,10 @@
 
 > git clone git@github.com:utit/Laravel-jwt-auth-webservice.git \<project-name>
 
+or use degit
+
+>  degit git@github.com:utit/Laravel-jwt-auth-webservice.git \<project-name>
+
 > cd \<project-name>
 
 > composer install
@@ -30,6 +34,5 @@ http://127.0.0.1:8000
 
 
 ##### Thank's
-[Laravel](http://laravel.com)
-[VueJS](http://vuejs.org)
+[Laravel](http://laravel.com) | 
 [JWT Auth](https://jwt-auth.readthedocs.io/en/develop/)
