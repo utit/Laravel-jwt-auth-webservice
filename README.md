@@ -28,6 +28,14 @@ or use degit
 
 http://127.0.0.1:8000
 
+#### user
+```
+    {
+        "email": "fulan@tester.id",
+        "password": "12345"
+	}
+```
+
 ## Demo
 
 ![](demo.gif)
