@@ -43,4 +43,5 @@ http://127.0.0.1:8000
 
 ##### Thank's
 [Laravel](http://laravel.com) | 
-[JWT Auth](https://jwt-auth.readthedocs.io/en/develop/)
+[JWT Auth](https://jwt-auth.readthedocs.io/en/develop/) |
+[Laravel CORS](https://github.com/fruitcake/laravel-cors)
